@@ -1,0 +1,32 @@
+C:\Users\james.coleman\Documents\Visual Studio 2015\Projects\XeroWinForms\XeroProxy\bin\Debug\XeroProxy.exe.config
+C:\Users\james.coleman\Documents\Visual Studio 2015\Projects\XeroWinForms\XeroProxy\bin\Debug\XeroProxy.exe
+C:\Users\james.coleman\Documents\Visual Studio 2015\Projects\XeroWinForms\XeroProxy\bin\Debug\XeroProxy.pdb
+C:\Users\james.coleman\Documents\Visual Studio 2015\Projects\XeroWinForms\XeroProxy\bin\Debug\Xero.Api.dll
+C:\Users\james.coleman\Documents\Visual Studio 2015\Projects\XeroWinForms\XeroProxy\bin\Debug\Xero.Api.Example.Applications.dll
+C:\Users\james.coleman\Documents\Visual Studio 2015\Projects\XeroWinForms\XeroProxy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\james.coleman\Documents\Visual Studio 2015\Projects\XeroWinForms\XeroProxy\bin\Debug\Xero.Api.Example.Applications.pdb
+C:\Users\james.coleman\Documents\Visual Studio 2015\Projects\XeroWinForms\XeroProxy\bin\Debug\Xero.Api.pdb
+C:\Users\james.coleman\Documents\Visual Studio 2015\Projects\XeroWinForms\XeroProxy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\james.coleman\Documents\Visual Studio 2015\Projects\XeroWinForms\XeroProxy\obj\Debug\XeroWinForm.XeroWinForm.resources
+C:\Users\james.coleman\Documents\Visual Studio 2015\Projects\XeroWinForms\XeroProxy\obj\Debug\XeroProxy.Properties.Resources.resources
+C:\Users\james.coleman\Documents\Visual Studio 2015\Projects\XeroWinForms\XeroProxy\obj\Debug\XeroWinForm.csproj.GenerateResource.Cache
+C:\Users\james.coleman\Documents\Visual Studio 2015\Projects\XeroWinForms\XeroProxy\obj\Debug\XeroProxy.exe
+C:\Users\james.coleman\Documents\Visual Studio 2015\Projects\XeroWinForms\XeroProxy\obj\Debug\XeroProxy.pdb
+C:\Users\james.coleman\Documents\Visual Studio 2015\Projects\XeroWinForms\XeroWinForms\bin\Debug\XeroProxy.exe.config
+C:\Users\james.coleman\Documents\Visual Studio 2015\Projects\XeroWinForms\XeroWinForms\obj\Debug\XeroProxy.exe
+C:\Users\james.coleman\Documents\Visual Studio 2015\Projects\XeroWinForms\XeroWinForms\obj\Debug\XeroProxy.pdb
+C:\Users\darren\Downloads\XeroWinForms-master\bin\Debug\XeroProxy.exe.config
+C:\Users\darren\Downloads\XeroWinForms-master\bin\Debug\XeroProxy.exe
+C:\Users\darren\Downloads\XeroWinForms-master\bin\Debug\XeroProxy.pdb
+C:\Users\darren\Downloads\XeroWinForms-master\bin\Debug\Xero.Api.dll
+C:\Users\darren\Downloads\XeroWinForms-master\bin\Debug\Xero.Api.Example.Applications.dll
+C:\Users\darren\Downloads\XeroWinForms-master\bin\Debug\Newtonsoft.Json.dll
+C:\Users\darren\Downloads\XeroWinForms-master\bin\Debug\Xero.Api.Example.Applications.pdb
+C:\Users\darren\Downloads\XeroWinForms-master\bin\Debug\Newtonsoft.Json.xml
+C:\Users\darren\Downloads\XeroWinForms-master\obj\Debug\XeroWinForm.csprojResolveAssemblyReference.cache
+C:\Users\darren\Downloads\XeroWinForms-master\obj\Debug\XeroWinForm.XeroWinForm.resources
+C:\Users\darren\Downloads\XeroWinForms-master\obj\Debug\XeroProxy.Properties.Resources.resources
+C:\Users\darren\Downloads\XeroWinForms-master\obj\Debug\XeroWinForm.csproj.GenerateResource.Cache
+C:\Users\darren\Downloads\XeroWinForms-master\obj\Debug\XeroWinForm.csproj.CoreCompileInputs.cache
+C:\Users\darren\Downloads\XeroWinForms-master\obj\Debug\XeroProxy.exe
+C:\Users\darren\Downloads\XeroWinForms-master\obj\Debug\XeroProxy.pdb
